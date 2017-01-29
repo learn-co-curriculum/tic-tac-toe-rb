@@ -56,7 +56,7 @@ There are three test files that should be completed in order. `01_tic_tac_toe_sp
 
 ### Your Tic Tac Toe Game
 
-There are infinite ways to build Tic Tac Toe. We, however, have been building up to a very specific structure with the methods we've been building throughout this course. We'll be using many of those methods here. These methods represent the basic requirements and logic of the game.
+There are infinite ways to build Tic Tac Toe. We, however, we have been building up to a very specific structure with the methods we've been building throughout this course. We'll be using many of those methods here. These methods represent the basic requirements and logic of the game.
 
 Why build and utilize the helper methods we've been constructing?
 
@@ -454,3 +454,5 @@ When you click on `lib/tic_tac_toe.rb`, you'll see something like:
 The lines in green have been tested, the lines in red haven't. When all tests pass, you should see 100% test coverage.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/tic-tac-toe-rb' title='Tic Tac Toe in Ruby'>Tic Tac Toe in Ruby</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/tic-tac-toe-rb'>TicTacToe.rb</a> on Learn.co and start learning to code for free.</p>
